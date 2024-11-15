@@ -9,7 +9,7 @@ public class Main {
 
         // Выводим информацию о разработчике и времени получения задания
         System.out.println("/**");
-        System.out.println("Разработчик: Иванов Данил");
+        System.out.println("Разработчик: Иванов Данил. ");
         System.out.println("Дата получения задания: " + currentDateTime);
         System.out.println("Дата и время сдачи задания: " + currentDateTime);
         System.out.println("*/");
